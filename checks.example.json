@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Local demo health endpoint",
+    "url": "http://127.0.0.1:8000/health.txt",
+    "expected_status": 200
+  }
+]
